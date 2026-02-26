@@ -1,8 +1,8 @@
-version: 0.1.3
+version: 0.1.4
 files:
-  - url: GoodCashier-Dashboard-Setup-0.1.3.exe
-    sha512: v/n4lElmeJAJLNmo0S+aUmEEZRFQ4dFcVPojUninBNo3SukEJLly90VCWoNKguHVEaE1XJ2XCKA9dyB31IFT9A==
-    size: 109425054
-path: GoodCashier-Dashboard-Setup-0.1.3.exe
-sha512: v/n4lElmeJAJLNmo0S+aUmEEZRFQ4dFcVPojUninBNo3SukEJLly90VCWoNKguHVEaE1XJ2XCKA9dyB31IFT9A==
-releaseDate: '2026-02-26T14:55:03.349Z'
+  - url: GoodCashier-Dashboard-Setup-0.1.4.exe
+    sha512: p0BzFgW0vW7NTLJTpQPtn7TwmSzauxmDzSTPzXxAdxO0eWBk7IiWSwOEJ72fadMuZmJK3krgqlvZOtB+Fegp2w==
+    size: 109425053
+path: GoodCashier-Dashboard-Setup-0.1.4.exe
+sha512: p0BzFgW0vW7NTLJTpQPtn7TwmSzauxmDzSTPzXxAdxO0eWBk7IiWSwOEJ72fadMuZmJK3krgqlvZOtB+Fegp2w==
+releaseDate: '2026-02-26T15:37:00.771Z'
