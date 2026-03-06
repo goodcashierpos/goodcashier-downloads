@@ -1,8 +1,8 @@
-﻿version: 0.1.22
+version: 0.1.23
 files:
-  - url: GoodCashier-POS-Setup-0.1.22.exe
-    sha512: 8301ah7PWVUvp2S6vbshhjEkbOPCNWQ3VKQAkCBa4Ko1A+weCLNlZNxwinD8GRUPSD8JwSsWRJy0ZlYCrtdAlg==
-    size: 109217483
-path: GoodCashier-POS-Setup-0.1.22.exe
-sha512: 8301ah7PWVUvp2S6vbshhjEkbOPCNWQ3VKQAkCBa4Ko1A+weCLNlZNxwinD8GRUPSD8JwSsWRJy0ZlYCrtdAlg==
-releaseDate: '2026-03-06T04:10:16.1435632Z'
+  - url: GoodCashier-POS-Setup-0.1.23.exe
+    sha512: vTesrtJtmZwkMgdbq1z5+Z4w+ssvcw+U7LGBPOeCEevBKJ+z/9mnNwXDr6euwF7+cD3fH84bPdIFIZAO2M1sVg==
+    size: 109218067
+path: GoodCashier-POS-Setup-0.1.23.exe
+sha512: vTesrtJtmZwkMgdbq1z5+Z4w+ssvcw+U7LGBPOeCEevBKJ+z/9mnNwXDr6euwF7+cD3fH84bPdIFIZAO2M1sVg==
+releaseDate: '2026-03-06T05:38:18.696Z'
